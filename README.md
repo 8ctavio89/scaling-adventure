@@ -1,1 +1,3 @@
-# Hello World CLI Sonarcloud \n Una d�a despues, o dos. 
+# Hello World CLI Sonarcloud
+
+Un día después, o dos. Quién sabe. Así es la vida, ni modo.
